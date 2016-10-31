@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.samsung.android.sdk.camera.sample"
+    android:versionCode="4"
+    android:versionName="1.2.1" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.samsung.android.provider.filterprovider.permission.READ_FILTER" />
+    <uses-permission android:name="com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.samsung.android.sdk.camera.sample.CameraSDK_Sample"
+            android:label="@string/title_activity_camera_sdk_sample" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.samsung.android.sdk.camera.sample.cases.Sample_Single"
+            android:label="@string/title_activity_sample_single" />
+        <activity
+            android:name="com.samsung.android.sdk.camera.sample.cases.Sample_Effect"
+            android:label="@string/title_activity_sample_effect" />
+        <activity
+            android:name="com.samsung.android.sdk.camera.sample.cases.Sample_LowLight"
+            android:label="@string/title_activity_sample_lowlight" />
+        <activity
+            android:name="com.samsung.android.sdk.camera.sample.cases.Sample_Panorama"
+            android:label="@string/title_activity_sample_panorama" />
+        <activity
+            android:name="com.samsung.android.sdk.camera.sample.cases.Sample_Image"
+            android:label="@string/title_activity_sample_ipx"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.samsung.android.sdk.camera.sample.cases.Sample_Filter"
+            android:label="@string/title_activity_sample_filter"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.samsung.android.sdk.camera.sample.cases.Sample_HazeRemove"
+            android:label="@string/title_activity_sample_haze_remove" />
+        <activity
+            android:name="com.samsung.android.sdk.camera.sample.cases.Sample_HDR"
+            android:label="@string/title_activity_sample_hdr" />
+        <activity
+            android:name="com.samsung.android.sdk.camera.sample.cases.Sample_DOF"
+            android:label="@string/title_activity_sample_dof" />
+        <activity
+            android:name="com.samsung.android.sdk.camera.sample.cases.Sample_Torch"
+            android:label="@string/title_activity_sample_torch" />
+        <activity
+            android:name="com.samsung.android.sdk.camera.sample.cases.Sample_ZSL"
+            android:label="@string/title_activity_sample_zsl" />
+        <activity
+            android:name="com.samsung.android.sdk.camera.sample.cases.Sample_YUV"
+            android:label="@string/title_activity_sample_yuv" />
+        <activity
+            android:name="com.samsung.android.sdk.camera.sample.cases.Sample_Constrained_HighSpeedVideo"
+            android:label="@string/title_activity_sample_constrained_highspeedvideo" />
+        <activity
+            android:name="com.samsung.android.sdk.camera.sample.cases.Sample_HighSpeedVideo"
+            android:label="@string/title_activity_sample_highspeedvideo" />
+        <activity
+            android:name="com.samsung.android.sdk.camera.sample.cases.Sample_Gif"
+            android:label="@string/title_activity_sample_gif" />
+    </application>
+
+</manifest>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/libs/sdk-v1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="e2ce3786b6e9519934c4a54aaaaf39525bf4486c">
+        <dex dex="/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/transforms/dex/debug/folders/1000/2/sdk-v1.0.0_18b216e70f6fa75c692f61cf25c44217cab474ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rayo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_84b9d69dd6eeff8771fd8d353ab10da26ac227fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_e485afbbb010d6568bcce2d713c96b6a1d3a5ef5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/libs/camera-v1.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="df4eac181fefc094fe235c89a1fabf7151159a0b">
+        <dex dex="/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/transforms/dex/debug/folders/1000/2/camera-v1.2.1_546e51e4e3d210e7f3b7d39710460addc26de786/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="408f6ac9c8a3312838cb3b819f7c2a1b2bc4817b">
+        <dex dex="/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f21e83daab6272e9c43974b9d2f7d82eb8f5de22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="56163a3d570f5ad2287fee858373bdcc03692aa8">
+        <dex dex="/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_64cf8206886b2492fd5334852acea106b583ea20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_67b396e560b7f2b2332a5f85e407e2d20d56ce45/classes.dex" />
+    </item>
+
+</items>

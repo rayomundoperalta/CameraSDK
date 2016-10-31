@@ -1,0 +1,167 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:2:1-81:12
+	package
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:3:5-52
+	android:versionName
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:5:5-32
+		INJECTED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.4.0] /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:8:9-35
+uses-permission#android.permission.CAMERA
+ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:11:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:12:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:13:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:14:22-78
+uses-permission#com.samsung.android.provider.filterprovider.permission.READ_FILTER
+ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:15:5-106
+	android:name
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:15:22-103
+uses-permission#com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY
+ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:16:5-117
+	android:name
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:16:22-114
+application
+ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:18:5-79:19
+MERGED from [com.android.support:support-v4:23.4.0] /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:21:9-41
+	android:allowBackup
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:20:9-43
+	android:theme
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:22:9-40
+activity#com.samsung.android.sdk.camera.sample.CameraSDK_Sample
+ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:23:9-31:20
+	android:label
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:25:13-69
+	android:name
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:24:13-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:29:27-74
+activity#com.samsung.android.sdk.camera.sample.cases.Sample_Single
+ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:32:9-34:68
+	android:label
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:34:13-65
+	android:name
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:33:13-48
+activity#com.samsung.android.sdk.camera.sample.cases.Sample_Effect
+ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:35:9-37:68
+	android:label
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:37:13-65
+	android:name
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:36:13-48
+activity#com.samsung.android.sdk.camera.sample.cases.Sample_LowLight
+ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:38:9-40:70
+	android:label
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:40:13-67
+	android:name
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:39:13-50
+activity#com.samsung.android.sdk.camera.sample.cases.Sample_Panorama
+ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:41:9-43:70
+	android:label
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:43:13-67
+	android:name
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:42:13-50
+activity#com.samsung.android.sdk.camera.sample.cases.Sample_Image
+ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:44:9-47:52
+	android:screenOrientation
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:47:13-49
+	android:label
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:46:13-62
+	android:name
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:45:13-47
+activity#com.samsung.android.sdk.camera.sample.cases.Sample_Filter
+ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:48:9-51:52
+	android:screenOrientation
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:51:13-49
+	android:label
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:50:13-65
+	android:name
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:49:13-48
+activity#com.samsung.android.sdk.camera.sample.cases.Sample_HazeRemove
+ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:52:9-54:73
+	android:label
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:54:13-70
+	android:name
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:53:13-52
+activity#com.samsung.android.sdk.camera.sample.cases.Sample_HDR
+ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:55:9-57:65
+	android:label
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:57:13-62
+	android:name
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:56:13-45
+activity#com.samsung.android.sdk.camera.sample.cases.Sample_DOF
+ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:58:9-60:65
+	android:label
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:60:13-62
+	android:name
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:59:13-45
+activity#com.samsung.android.sdk.camera.sample.cases.Sample_Torch
+ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:61:9-63:67
+	android:label
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:63:13-64
+	android:name
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:62:13-47
+activity#com.samsung.android.sdk.camera.sample.cases.Sample_ZSL
+ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:64:9-66:65
+	android:label
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:66:13-62
+	android:name
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:65:13-45
+activity#com.samsung.android.sdk.camera.sample.cases.Sample_YUV
+ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:67:9-69:65
+	android:label
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:69:13-62
+	android:name
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:68:13-45
+activity#com.samsung.android.sdk.camera.sample.cases.Sample_Constrained_HighSpeedVideo
+ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:70:9-72:88
+	android:label
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:72:13-85
+	android:name
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:71:13-68
+activity#com.samsung.android.sdk.camera.sample.cases.Sample_HighSpeedVideo
+ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:73:9-75:76
+	android:label
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:75:13-73
+	android:name
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:74:13-56
+activity#com.samsung.android.sdk.camera.sample.cases.Sample_Gif
+ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:76:9-78:65
+	android:label
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:78:13-62
+	android:name
+		ADDED from /Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/AndroidManifest.xml:77:13-45

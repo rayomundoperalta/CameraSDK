@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/res/merged/debug/drawable/rectangle.xml",
+        "source": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/res/drawable/rectangle.xml"
+    },
+    {
+        "merged": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/res/merged/debug/drawable/bg_image_frame.png",
+        "source": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/res/drawable/bg_image_frame.png"
+    },
+    {
+        "merged": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/res/merged/debug/drawable/easy_camera_gallery_no_item.png",
+        "source": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/res/drawable/easy_camera_gallery_no_item.png"
+    }
+]

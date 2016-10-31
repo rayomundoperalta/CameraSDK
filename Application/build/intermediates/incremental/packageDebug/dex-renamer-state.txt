@@ -1,0 +1,7 @@
+#Mon Oct 31 10:19:37 CST 2016
+base.0=/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_64cf8206886b2492fd5334852acea106b583ea20
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f21e83daab6272e9c43974b9d2f7d82eb8f5de22/classes.dex
+base.1=/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f21e83daab6272e9c43974b9d2f7d82eb8f5de22
+file.0=/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_64cf8206886b2492fd5334852acea106b583ea20/classes.dex

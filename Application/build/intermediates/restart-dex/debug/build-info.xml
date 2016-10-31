@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="511238153958428"
+    token="4246191278810897626"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="5470" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1696" />
+    <task
+        name="verifier"
+        duration="259" />
+
+    <artifact
+        location="/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/outputs/apk/Application-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="511238153958428"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/outputs/apk/Application-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

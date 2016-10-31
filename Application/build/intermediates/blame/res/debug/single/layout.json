@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/res/merged/debug/layout/activity_yuv.xml",
+        "source": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/res/layout/activity_yuv.xml"
+    },
+    {
+        "merged": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/res/merged/debug/layout/information_dialog_single.xml",
+        "source": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/res/layout/information_dialog_single.xml"
+    },
+    {
+        "merged": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/res/merged/debug/layout/result_dialog_hdr.xml",
+        "source": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/res/layout/result_dialog_hdr.xml"
+    },
+    {
+        "merged": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/res/merged/debug/layout/activity_camera_sdk_sample.xml",
+        "source": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/res/layout/activity_camera_sdk_sample.xml"
+    },
+    {
+        "merged": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/res/merged/debug/layout/activity_gif.xml",
+        "source": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/res/layout/activity_gif.xml"
+    },
+    {
+        "merged": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/res/merged/debug/layout/result_dialog_dof.xml",
+        "source": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/res/layout/result_dialog_dof.xml"
+    },
+    {
+        "merged": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/res/merged/debug/layout/activity_lowlight.xml",
+        "source": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/res/layout/activity_lowlight.xml"
+    },
+    {
+        "merged": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/res/merged/debug/layout/activity_torch.xml",
+        "source": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/res/layout/activity_torch.xml"
+    },
+    {
+        "merged": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/res/merged/debug/layout/result_dialog_haze.xml",
+        "source": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/res/layout/result_dialog_haze.xml"
+    },
+    {
+        "merged": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/res/merged/debug/layout/activity_panorama.xml",
+        "source": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/res/layout/activity_panorama.xml"
+    },
+    {
+        "merged": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/res/merged/debug/layout/setting_range_item.xml",
+        "source": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/res/layout/setting_range_item.xml"
+    },
+    {
+        "merged": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/res/merged/debug/layout/activity_zsl.xml",
+        "source": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/res/layout/activity_zsl.xml"
+    },
+    {
+        "merged": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/res/merged/debug/layout/setting_dialog_single.xml",
+        "source": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/res/layout/setting_dialog_single.xml"
+    },
+    {
+        "merged": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/res/merged/debug/layout/spinner_item.xml",
+        "source": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/res/layout/spinner_item.xml"
+    },
+    {
+        "merged": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/res/merged/debug/layout/activity_filter.xml",
+        "source": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/res/layout/activity_filter.xml"
+    },
+    {
+        "merged": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/res/merged/debug/layout/result_dialog_lowlight.xml",
+        "source": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/res/layout/result_dialog_lowlight.xml"
+    },
+    {
+        "merged": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/res/merged/debug/layout/activity_effect.xml",
+        "source": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/res/layout/activity_effect.xml"
+    },
+    {
+        "merged": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/res/merged/debug/layout/activity_ipx.xml",
+        "source": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/res/layout/activity_ipx.xml"
+    },
+    {
+        "merged": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/res/merged/debug/layout/activity_haze_remove.xml",
+        "source": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/res/layout/activity_haze_remove.xml"
+    },
+    {
+        "merged": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/res/merged/debug/layout/torch_item.xml",
+        "source": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/res/layout/torch_item.xml"
+    },
+    {
+        "merged": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/res/merged/debug/layout/activity_highspeedvideo.xml",
+        "source": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/res/layout/activity_highspeedvideo.xml"
+    },
+    {
+        "merged": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/res/merged/debug/layout/setting_list_item.xml",
+        "source": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/res/layout/setting_list_item.xml"
+    },
+    {
+        "merged": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/res/merged/debug/layout/activity_single.xml",
+        "source": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/res/layout/activity_single.xml"
+    },
+    {
+        "merged": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/res/merged/debug/layout/activity_dof.xml",
+        "source": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/res/layout/activity_dof.xml"
+    },
+    {
+        "merged": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/build/intermediates/res/merged/debug/layout/activity_hdr.xml",
+        "source": "/Users/rayo/Desktop/CameraSDK_Sample_v1/Application/src/main/res/layout/activity_hdr.xml"
+    }
+]
